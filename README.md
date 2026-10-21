@@ -65,6 +65,14 @@
 - 13–16 cities: focus on the two practical algorithms and Held–Karp if runtime allows.
 - Repeat with several random seeds for more defensible results.
 
+## Result
+1. <img width="1920" height="1080" alt="Screenshot 2026-10-21 141343" src="https://github.com/user-attachments/assets/fc0e9163-7f15-4883-b9c5-481400ea2f1c" />
+
+2. <img width="1920" height="1080" alt="Screenshot 2026-10-21 141422" src="https://github.com/user-attachments/assets/65025d78-f481-48b5-b40f-ef95351c3421" />
+
+3. <img width="1920" height="1080" alt="Screenshot 2026-10-21 141456" src="https://github.com/user-attachments/assets/68fba4dc-a855-4dc2-ae00-f67e075453d3" />
+
+
 ## Complexity summary
 | Algorithm | Time complexity | Optimal? |
 |---|---|---|
