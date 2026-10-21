@@ -1,0 +1,6 @@
+﻿,Algorithm,Distance,Time (ms),Completed,States / tours checked,Gap vs best completed exact (%)
+0,Nearest Neighbour,376.203,0.067,true,,29.122
+1,MST 2-Approximation,335.114,3.361,true,,15.02
+2,Held–Karp DP,291.354,6.041,true,,0
+3,Branch and Bound,291.354,13.991,true,776,0
+4,Brute Force,291.354,157.334,true,40320,0
